@@ -1,2 +1,2 @@
-/github.com/lib/pq
-/github.com/rs/cors
+github.com/lib/*
+github.com/rs/*
